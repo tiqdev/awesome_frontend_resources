@@ -3,21 +3,29 @@
 In this list, you can find resources that may be useful for frontend developers.
 This list will be continuously updated with resources
 
-## HTML
+## \*HTML
+
+---
 
 - **Semantic HTML:** [Semantic HTML](https://www.semrush.com/blog/semantic-html5-guide/) - Semantic HTML: What It Is and How to Use It Correctly
 
-## CSS
+## \*CSS
+
+---
 
 - **Can I Use:** [Can I Use](https://caniuse.com/) - Use this resource to get information about browser compatibility.
 - **CSS-Tricks:** [CSS-Tricks](https://css-tricks.com/) - Tips, techniques, and examples related to CSS.
 - **Transition.css:** [Transition.css](https://www.transition.style/) - 46 pre-built CSS transitions!
 
-## Javascript
+## \*Javascript
+
+---
 
 - **Net Ninja Youtube** [Net Ninja Youtube](https://www.youtube.com/@NetNinja) - Popular channel that explain JavaScript in an engaging and entertaining way
 
-## Git
+## \*Git
+
+---
 
 - **Git Conventional Commits:** [Git Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) - Use this resource to get information about Git Conventional Commits
 
