@@ -12,10 +12,16 @@ This list will be continuously updated with resources
 - **Can I Use:** [Can I Use](https://caniuse.com/) - Use this resource to get information about browser compatibility.
 - **CSS-Tricks:** [CSS-Tricks](https://css-tricks.com/) - Tips, techniques, and examples related to CSS.
 - **Transition.css:** [Transition.css](https://www.transition.style/) - 46 pre-built CSS transitions!
+- **UIColors** [UIColors](https://uicolors.app/create) - Tailwind CSS Color Generator
 
 ## \*Javascript
 
 - **Net Ninja Youtube** [Net Ninja Youtube](https://www.youtube.com/@NetNinja) - Popular channel that explain JavaScript in an engaging and entertaining way
+
+## \*React
+
+- **useHooks** [useHooks](https://usehooks.com/) - A collection of modern, server-safe React hooks – from the ui.dev team
+- **LearnReactUI** [LearnReactUI](https://learnreactui.dev/contents?language=EN) - Great React courses which will make you ready for the industry
 
 ## \*Git
 
